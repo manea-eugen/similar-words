@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://manea-eugen.github.io/similar-words/",
   "dependencies": {
     "antd": "^3.25.3",
     "react": "^16.12.0",
