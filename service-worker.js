@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://manea-eugen.github.io/similar-words/precache-manifest.5b299ba85ac7dd02ea4335c0bef84c04.js"
+  "https://manea-eugen.github.io/similar-words/precache-manifest.941b0a45e160318aa51aef23ac009870.js"
 );
 
 self.addEventListener('message', (event) => {

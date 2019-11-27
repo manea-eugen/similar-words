@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://manea-eugen.github.io/similar-words/static/css/main.2f3eb9d0.chunk.css",
-    "main.js": "https://manea-eugen.github.io/similar-words/static/js/main.19e2994c.chunk.js",
-    "main.js.map": "https://manea-eugen.github.io/similar-words/static/js/main.19e2994c.chunk.js.map",
+    "main.js": "https://manea-eugen.github.io/similar-words/static/js/main.d5dfc76f.chunk.js",
+    "main.js.map": "https://manea-eugen.github.io/similar-words/static/js/main.d5dfc76f.chunk.js.map",
     "runtime-main.js": "https://manea-eugen.github.io/similar-words/static/js/runtime-main.b6a3ec77.js",
     "runtime-main.js.map": "https://manea-eugen.github.io/similar-words/static/js/runtime-main.b6a3ec77.js.map",
     "static/css/2.90172c5a.chunk.css": "https://manea-eugen.github.io/similar-words/static/css/2.90172c5a.chunk.css",
     "static/js/2.a094abcb.chunk.js": "https://manea-eugen.github.io/similar-words/static/js/2.a094abcb.chunk.js",
     "static/js/2.a094abcb.chunk.js.map": "https://manea-eugen.github.io/similar-words/static/js/2.a094abcb.chunk.js.map",
     "index.html": "https://manea-eugen.github.io/similar-words/index.html",
-    "precache-manifest.5b299ba85ac7dd02ea4335c0bef84c04.js": "https://manea-eugen.github.io/similar-words/precache-manifest.5b299ba85ac7dd02ea4335c0bef84c04.js",
+    "precache-manifest.941b0a45e160318aa51aef23ac009870.js": "https://manea-eugen.github.io/similar-words/precache-manifest.941b0a45e160318aa51aef23ac009870.js",
     "service-worker.js": "https://manea-eugen.github.io/similar-words/service-worker.js",
     "static/css/2.90172c5a.chunk.css.map": "https://manea-eugen.github.io/similar-words/static/css/2.90172c5a.chunk.css.map",
     "static/css/main.2f3eb9d0.chunk.css.map": "https://manea-eugen.github.io/similar-words/static/css/main.2f3eb9d0.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.90172c5a.chunk.css",
     "static/js/2.a094abcb.chunk.js",
     "static/css/main.2f3eb9d0.chunk.css",
-    "static/js/main.19e2994c.chunk.js"
+    "static/js/main.d5dfc76f.chunk.js"
   ]
 }
