@@ -23,7 +23,7 @@ jobs:
     - name: Cache node modules
       uses: actions/cache@v1
       with:
-        path: node_modules
+        path: frontend/node_modules
         key: ${{ runner.OS }}-build-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
           ${{ runner.OS }}-build-${{ env.cache-name }}-
@@ -42,7 +42,7 @@ jobs:
         # npm test
       env:
         CI: true
-    - name: Build and Deploy
+    - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
