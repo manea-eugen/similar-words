@@ -27,7 +27,8 @@ jobs:
         CI: true
     - name: "Deploy to github pages"
       uses: "maxheld83/ghpages@v0.2.1"
+      with:
+        GH_PATH: ${{secrets.GH_PAT}}
       env: {
         BUILD_DIR: "frontend/build"
       }
-      secrets: "GH_PAT"
