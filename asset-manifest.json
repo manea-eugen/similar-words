@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f3eb9d0.chunk.css",
-    "main.js": "/static/js/main.19e2994c.chunk.js",
-    "main.js.map": "/static/js/main.19e2994c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.baeb1881.js",
-    "runtime-main.js.map": "/static/js/runtime-main.baeb1881.js.map",
-    "static/css/2.90172c5a.chunk.css": "/static/css/2.90172c5a.chunk.css",
-    "static/js/2.761215d6.chunk.js": "/static/js/2.761215d6.chunk.js",
-    "static/js/2.761215d6.chunk.js.map": "/static/js/2.761215d6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.043839fefb8d0858e8f78ed7be9d74de.js": "/precache-manifest.043839fefb8d0858e8f78ed7be9d74de.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.90172c5a.chunk.css.map": "/static/css/2.90172c5a.chunk.css.map",
-    "static/css/main.2f3eb9d0.chunk.css.map": "/static/css/main.2f3eb9d0.chunk.css.map"
+    "main.css": "https://manea-eugen.github.io/similar-words/static/css/main.2f3eb9d0.chunk.css",
+    "main.js": "https://manea-eugen.github.io/similar-words/static/js/main.19e2994c.chunk.js",
+    "main.js.map": "https://manea-eugen.github.io/similar-words/static/js/main.19e2994c.chunk.js.map",
+    "runtime-main.js": "https://manea-eugen.github.io/similar-words/static/js/runtime-main.b6a3ec77.js",
+    "runtime-main.js.map": "https://manea-eugen.github.io/similar-words/static/js/runtime-main.b6a3ec77.js.map",
+    "static/css/2.90172c5a.chunk.css": "https://manea-eugen.github.io/similar-words/static/css/2.90172c5a.chunk.css",
+    "static/js/2.a094abcb.chunk.js": "https://manea-eugen.github.io/similar-words/static/js/2.a094abcb.chunk.js",
+    "static/js/2.a094abcb.chunk.js.map": "https://manea-eugen.github.io/similar-words/static/js/2.a094abcb.chunk.js.map",
+    "index.html": "https://manea-eugen.github.io/similar-words/index.html",
+    "precache-manifest.5b299ba85ac7dd02ea4335c0bef84c04.js": "https://manea-eugen.github.io/similar-words/precache-manifest.5b299ba85ac7dd02ea4335c0bef84c04.js",
+    "service-worker.js": "https://manea-eugen.github.io/similar-words/service-worker.js",
+    "static/css/2.90172c5a.chunk.css.map": "https://manea-eugen.github.io/similar-words/static/css/2.90172c5a.chunk.css.map",
+    "static/css/main.2f3eb9d0.chunk.css.map": "https://manea-eugen.github.io/similar-words/static/css/main.2f3eb9d0.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.baeb1881.js",
+    "static/js/runtime-main.b6a3ec77.js",
     "static/css/2.90172c5a.chunk.css",
-    "static/js/2.761215d6.chunk.js",
+    "static/js/2.a094abcb.chunk.js",
     "static/css/main.2f3eb9d0.chunk.css",
     "static/js/main.19e2994c.chunk.js"
   ]
