@@ -33,10 +33,9 @@ jobs:
     - name: Install Dependencies
       run: |
         cd frontend
-         npm ci
+        npm install
 
-    - name: npm install, build, and test
-      
+    - name: Build
       run: |
         cd frontend
         npm run build --if-present
